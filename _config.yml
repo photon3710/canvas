@@ -10,8 +10,8 @@ title: Inspiration for Quantum Computing
 email: tyc2015@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the frontier of quantum computing
-baseurl: "/canvas" # the subpath of your site, e.g. /blog
-url: "http://iqc.ac" # the base hostname & protocol for your sit
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://iqc.ac/canvas" # the base hostname & protocol for your sit
 github_username:  photon3710
 
 # Build settings
