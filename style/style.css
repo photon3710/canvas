@@ -214,73 +214,6 @@ label {float: left; width: 220px}
     text-align: center;
 }
 
-.totem {
-    width: 174px;
-    height: 500px;
-    position: absolute;
-    z-index: 3;
-    background-image: url("../images/totemBg.png");
-    display: none;
-}
-
-/*.totemHalo {
-    width: 204px;
-    height: 100px;
-    margin-top: -50px;
-    display: block;
-    background-image: url("../images/haloTotem.png")
-}*/
-
-/*.totemHeader {
-    background-image: url("../images/content3d.png");
-    display: block;
-    margin-top: 0px;
-    margin-right: auto;
-    margin-left: auto;
-    width: 200px;
-    height: 30px;
-}*/
-
-.totemContent {
-    margin-left: 40px;
-    border-radius: 10px 10px 0px 0px;
-    width: 64px;
-    margin-top: 30px;
-    margin-bottom: 0px;
-    height: 400px;
-    background-color: #ccc;
-    display: block;
-}
-
-.facebookHolder  {
-    width: 64px;
-    height: 64px;
-    display: block;
-    float: left;
-}
-.facebook {
-    visibility: hidden;
-    position: absolute;
-    z-index: 5;
-    pointer-events: none;
-    width: 64px;
-    height: 64px;
-    display: block;
-    background-image: url("../images/facebook.png");
-}
-
-.facebookIframe {position: absolute; border:none; overflow:hidden; width:50px !important; height:30px; position: absolute; z-index: 4; visibility: hidden; }
-
-.shareButton {
-    width: 64px;
-    height: 64px;
-    display: block;
-    float: left;
-}
-
-.shareButton:hover {
-    opacity: 0.9;
-}
 
 .notCompatibleWrapper {
     background-color: rgba(0,0,0,0.6);
@@ -307,16 +240,5 @@ label {float: left; width: 220px}
     border: 3px solid orange;
 }
 
-.bookText {
-    display: block;
-    float: right;
-    width: 260px;    
-    margin-top: 20px;
-}
 
-.bookImage {
-    margin-left: 20px;
-    margin-top: 35px;
-    margin-right: 20px;
-    border: 1px solid silver;
 }
