@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Inspiration for Quantum Computing
-email: etang@adaptive.finance
+title: Yongchao's Quantum Zone
+email: tyc2015@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the frontier of quantum computing
 baseurl: "/canvas" # the subpath of your site, e.g. /blog
-url: "http://iqc.ac/canvas" # the base hostname & protocol for your sit
+url: "http://yct.im/canvas" # the base hostname & protocol for your sit
 github_username:  adaptivefinances
 
 # Build settings
